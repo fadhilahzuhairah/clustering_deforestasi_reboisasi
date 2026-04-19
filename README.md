@@ -58,8 +58,8 @@ pip install -r requirements.txt
 bash
 streamlit run app.py (usahakan tujuan lokasi nya sudah benar)
 
-🌐 Link Dashboard
-🔗 Klik di sini untuk membuka dashboard
+🌐 Link Dashboard / streamlit
+🔗 https://clusteringdeforestasireboisasi-rfjzwgr3mxycm7msgb7sg2.streamlit.app/
 
 👩‍💻 Author
 Fadhilah Zuhairah
